@@ -1,0 +1,6 @@
+{
+  "name": "Hachihi AI Chatbot Studio",
+  "description": "Cải tiến và tối ưu Chatbot AI Hachihi.vn: Khắc phục lỗi Google Apps Script, xử lý đơn hàng tự động, đồng bộ Google Sheets và Slack Webhook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
